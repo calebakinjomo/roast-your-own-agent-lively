@@ -4,6 +4,10 @@ u-lively-harbor-25-4493-roast-your-own-agent-5568be54
 
 Writes a single line (at most 140 characters) roasting my own agent
 to /output/entry.txt.
+
+Judge criteria, in order: the roast must target the entrant's own
+agent first, then make the reader laugh, then be specific about a
+real agent behaviour. The entry is capped at 140 characters.
 """
 
 import os
